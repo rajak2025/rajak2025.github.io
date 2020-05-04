@@ -1,1 +1,1 @@
-alert("OK Nokku!");
+alert("Press OK");
